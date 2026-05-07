@@ -14,7 +14,7 @@ This repository contains the MATLAB code used to produce the numerical simulatio
 
 ## Repository structure
 ```plaintext
-phenotype-structured-models/
+../
 │
 ├── src/
 │   ├── parameters.m     % Set and save all simulation parameters
