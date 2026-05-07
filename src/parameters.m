@@ -46,6 +46,9 @@ s0   = 2;
 N = 1e5;   % number of agents
 
 % -------------------------------------------------------------------------
-% Save
+% Create data folder if it does not exist and save
 % -------------------------------------------------------------------------
+if ~exist('../data', 'dir')
+    mkdir('../data');
+end
 save('../data/parameters.mat');
