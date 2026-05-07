@@ -12,6 +12,7 @@ Numerical simulations for the paper:
 
 This repository contains the MATLAB code used to produce the numerical simulations presented in the paper. Starting from a stochastic agent-based model for phenotype-structured biological populations, we derive a mesoscopic integro-differential equation (IDE) and, via a quasi-invariant limit, a non-local Fokker-Planck-type equation (PDE). The simulations compare the three levels of description across different values of the scaling parameter $\varepsilon$.
 
+## Repository structure
 ```plaintext
 phenotype-structured-models/
 │
