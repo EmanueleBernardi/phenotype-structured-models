@@ -43,7 +43,7 @@ To reproduce the simulations for a different value of `alpha`, set the desired v
 
 ## Parameters
 
-The key parameters are set in `parameters.m`:
+The default values for the key parameters are set in `parameters.m` as following:
 
 | Parameter | Description | Default value |
 |-----------|-------------|---------------|
