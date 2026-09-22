@@ -2,9 +2,10 @@
 
 Numerical simulations for the paper:
 
-> E. Bernardi, T. Lorenzi, A. Tosin  
+> > E. Bernardi, T. Lorenzi, A. Tosin  
 > *Derivation and quasi-invariant asymptotics of phenotype-structured integro-differential models*  
-> Preprint: [arXiv:2510.15646](https://arxiv.org/abs/2510.15646)
+> Physica D: Nonlinear Phenomena, 135402 (2026). DOI: [10.1016/j.physd.2026.135402](https://doi.org/10.1016/j.physd.2026.135402)  
+> 
 
 ---
 
@@ -88,13 +89,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you use this code, please cite:
 
 ```bibtex
-@misc{bernardi2025phenotype,
-  author    = {Bernardi, Emanuele and Lorenzi, Tommaso and Tosin, Andrea},
-  title     = {Derivation and quasi-invariant asymptotics of phenotype-structured integro-differential models},
-  year      = {2025},
-  eprint    = {2510.15646},
-  archivePrefix = {arXiv},
-  primaryClass  = {math.AP}
+@article{bernardi2026phenotype,
+  author  = {Bernardi, Emanuele and Lorenzi, Tommaso and Tosin, Andrea},
+  title   = {Derivation and quasi-invariant asymptotics of phenotype-structured integro-differential models},
+  journal = {Physica D: Nonlinear Phenomena},
+  pages   = {135402},
+  year    = {2026},
+  issn    = {0167-2789},
+  doi     = {10.1016/j.physd.2026.135402}
 }
 ```
 
