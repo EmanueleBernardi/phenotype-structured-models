@@ -104,5 +104,5 @@ If you use this code, please cite:
 
 ## Contact
 
-Emanuele Bernardi — [emanuele.bernardi@polito.it](mailto:emanuele.bernardi@polito.it)  
+Emanuele Bernardi — [emanuele.bernardi.phd@gmail.com](mailto:emanuele.bernardi.phd@gmail.com)  
 Personal website: [emanuelebernardi.github.io/personal-site](https://emanuelebernardi.github.io/personal-site/)
